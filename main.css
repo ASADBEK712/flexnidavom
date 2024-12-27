@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.box-parend {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+}
+
+.box-parend1 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.box-parend2 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.box-parend3 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.box-parend4 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 75px;
+}
+
+.box-child {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 10px;
+
+}
+
+.box-child1 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.box-child4 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.box-parend1 {
+    display: flex;
+    gap: 8px;
+}
+
+.box-parend2 {
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+}
+
+.box-parend3 {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.box-parend5 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.box-parend6 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+.box-parend7 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.box-parend8 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.box-parend9 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.box-parend10 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: flex-end;
+}
+.box-parend11 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+   align-items: center;
+ 
+   
+    gap: 10px;
+}
+.box-parend12 {
+    width: 320px;
+    height: 320px;
+    background-color: violet;
+    border-radius: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
